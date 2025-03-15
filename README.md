@@ -55,7 +55,7 @@ Since the project is containerized, you don't need to install Python dependencie
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/robosac333/Financial_Sentiment_Analysis.git
+git clone https://github.com/sarangnair1998/Financial_Sentiment_Analysis.git
 cd financial-sentiment-api
 ```
 
