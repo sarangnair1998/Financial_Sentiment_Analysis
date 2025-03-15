@@ -11,8 +11,6 @@ This project is a prototype API that analyzes financial news sentiment using Fin
 - [Installation & Setup using Docker](#installation--setup-using-docker)
 - [Interactive Documentation](#interactive-documentation)
 - [Example API Call](#example-api-call)
-- [Project Structure](#project-structure)
-- [Next Steps / Future Work](#next-steps--future-work)
 
 ---
 
